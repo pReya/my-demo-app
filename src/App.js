@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello HCS Class of 2022!
         </a>
       </header>
     </div>
